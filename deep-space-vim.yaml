@@ -1,0 +1,18 @@
+scheme: "Deep Space"
+author: "fturcheti (based on vim-deep-space by tyrannicaltoucan)"
+base00: "1b202a" # darkest gray
+base01: "232936" # dark gray
+base02: "323c4d" # semi-dark gray
+base03: "51617d" # medium gray
+base04: "7788a3" # gray
+base05: "9aa7bd" # semi-light gray
+base06: "e1eafa" # light
+base07: "f2f7ff" # lightest gray
+base08: "608cc3" # blue
+base09: "8f72bf" # purple
+base0A: "b5a262" # yellow
+base0B: "709d6c" # green
+base0C: "b87db2" # pink
+base0D: "b15e7c" # red
+base0E: "56adb7" # cyan
+base0F: "b3785d" # brown
